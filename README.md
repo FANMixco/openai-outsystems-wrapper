@@ -17,6 +17,8 @@ I have tested:
 Here is more info about the other available models:
 [platform.openai.com/docs/models](https://platform.openai.com/docs/models)
 
+Read the [Wiki](https://github.com/FANMixco/openai-outsystems-wrapper/wiki) for further instructions.
+
 ## Follow me on
 
 |  LinkedIn  |YouTube|Amazon|Goodreads|Instagram|Cyber Prophets|Sharing Your Stories|TikTok|
