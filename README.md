@@ -1,6 +1,6 @@
 # openai-outsystems-wrapper
 
-A simple wrapper for the OpenAI APIs for OutSystems. It supports GPT-4, Chat, Completion (legacy), and Image Generation.
+A wrapper for the latest OpenAI APIs, including GPT-4. It supports Chat, Completion (legacy), and Image Generation.
 
 It's available on **Forge**:
 [Open AI Wrapper](https://www.outsystems.com/forge/component-overview/18160/openai-api-wrapper-o11)
