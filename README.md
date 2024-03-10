@@ -5,7 +5,7 @@ A wrapper for the latest OpenAI APIs, including GPT-4. It supports Chat, Complet
 To use it you must first get your **OpenAI key** here:
 [platform.openai.com/api-keys](https://platform.openai.com/api-keys)
 
-If you want to download it for your project, the plugin is available on **Forge**:
+If you want to download it for your project, the **Asset** is available on **Forge**:
 [Open AI Wrapper](https://www.outsystems.com/forge/component-overview/18160/openai-api-wrapper-o11)
 
 ![Preview](https://www.outsystems.com/forge/DownloadResource.aspx?FileName=FullSize_16931_Screenshot20240308214554.png)
