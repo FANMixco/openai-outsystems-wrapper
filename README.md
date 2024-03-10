@@ -11,11 +11,10 @@ If you want to download it for your project, the plugin is available on **Forge*
 ![Preview](https://www.outsystems.com/forge/DownloadResource.aspx?FileName=FullSize_16931_Screenshot20240308214554.png)
 
 I have tested:
-- gpt-4
-- gpt-3.5-turbo
-- gpt-3.5-turbo-instruct
+- **Chat:** gpt-4 and gpt-3.5-turbo
+- **Completion/Legacy:** gpt-3.5-turbo-instruct
 
-Here is more info about the other models available:
+Here is more info about the other available models:
 [platform.openai.com/docs/models](https://platform.openai.com/docs/models)
 
 ## Follow me on
