@@ -8,7 +8,7 @@ It's available on **Forge**:
 ![Preview](https://www.outsystems.com/forge/DownloadResource.aspx?FileName=FullSize_16931_Screenshot20240308214554.png)
 
 Here is more info about the models available:
-https://platform.openai.com/docs/models
+[platform.openai.com/docs/models](https://platform.openai.com/docs/models)
 
 I have tested:
 - gpt-4
@@ -16,7 +16,7 @@ I have tested:
 - gpt-3.5-turbo-instruct
 
 Also, you can get your key here:
-(Open AI Platform)[https://platform.openai.com]
+[platform.openai.com/api-keys](https://platform.openai.com/api-keys)
 
 ## Follow me on
 
