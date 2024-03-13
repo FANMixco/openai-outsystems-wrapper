@@ -1,6 +1,6 @@
-# OpenAI Outsystems Wrapper
+# OpenAI OutSystems Wrapper
 
-A wrapper for the latest OpenAI APIs, including GPT-4. It supports Chat, Completion (legacy), and Image Generation. To use it you must first get your **OpenAI key** here: [platform.openai.com/api-keys](https://platform.openai.com/api-keys)
+A wrapper for the latest OpenAI APIs, including GPT-4 and embeddings. It supports Chat, Embeddings, Completion (legacy), and Image Generation. To use it you must first get your **OpenAI key** here: [platform.openai.com/api-keys](https://platform.openai.com/api-keys)
 
 If you want to download it for your project, the **Asset** is available on **Forge**:
 [Open AI Wrapper](https://www.outsystems.com/forge/component-overview/18160/openai-api-wrapper-o11)
