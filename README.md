@@ -1,4 +1,4 @@
-# openai-outsystems-wrapper
+# OpenAI Outsystems Wrapper
 
 A wrapper for the latest OpenAI APIs, including GPT-4. It supports Chat, Completion (legacy), and Image Generation. To use it you must first get your **OpenAI key** here: [platform.openai.com/api-keys](https://platform.openai.com/api-keys)
 
