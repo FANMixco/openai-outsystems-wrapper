@@ -5,7 +5,7 @@ A wrapper for the latest OpenAI APIs, including GPT-4 and embeddings. It support
 If you want to download it for your project, the **Asset** is available on **Forge**:
 [Open AI Wrapper](https://www.outsystems.com/forge/component-overview/18160/openai-api-wrapper-o11)
 
-![Preview](https://www.outsystems.com/forge/DownloadResource.aspx?FileName=FullSize_16931_Screenshot20240308214554.png)
+![Preview](https://www.outsystems.com/forge-assets/dded9a4c-89df-49af-b973-13f99ba89da8/screenshots/fullsize_6c4e1add-eb1a-437f-a3a0-87da6df147d9-20240516145208.png)
 
 For the texting mode, I have tested:
 - **Chat:** gpt-4 and gpt-3.5-turbo
